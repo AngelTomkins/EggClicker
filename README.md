@@ -21,3 +21,14 @@ Status Legend:
 | Prestige System | ❌ |
 | Leaderboards | ❌ |
 | Save/Load Functionality | ❌ 
+
+## Compiling
+
+If you want to see the current progress of the game, follow these steps below to test it out. (In the future I will setup a dev and main branch seperate, this will be updates when changes are made)
+
+```
+git clone https://github.com/AngelTomkins/EggClicker
+cd EggClicker
+cargo build --release
+cargo run
+```
